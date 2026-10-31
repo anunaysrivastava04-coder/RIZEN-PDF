@@ -4,7 +4,7 @@
 
 RIZENPDF is a free PDF toolkit that runs in your browser. Your files are processed on your own device and are never uploaded to a server. There is no account, subscription, watermark or usage limit.
 
-LIVE LINK =  rizenpdf.netlify.app
+LIVE LINK =https://rizenpdf.netlify.app/
 
 Developed by **RIZEN CODERS** · Tagline: *Your Documents. Your Control.*
 
