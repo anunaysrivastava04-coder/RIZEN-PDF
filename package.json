@@ -1,0 +1,13 @@
+{
+  "name": "rizenpdf",
+  "version": "0.1.0",
+  "description": "RIZENPDF: a free, privacy-first PDF toolkit that runs in the browser.",
+  "private": true,
+  "author": "RIZEN CODERS",
+  "scripts": {
+    "start": "npx --yes serve -l 3000 ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
