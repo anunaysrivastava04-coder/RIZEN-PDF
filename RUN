@@ -1,0 +1,15 @@
+How to run
+Requirements
+A recent version of Chrome, Edge, Firefox or Safari
+An internet connection, for the libraries from cdnjs
+Optional: Node.js 18 or newer, for npm start
+Option 1: open the file
+Double-click index.html. Most tools work this way. If a tool fails, use option 2 or 3.
+
+Option 2: npm start
+npm start
+Then open the local address the command prints, usually http://localhost:3000.
+
+Option 3: any static server
+python3 -m http.server 8080
+Then open http://localhost:8080.
